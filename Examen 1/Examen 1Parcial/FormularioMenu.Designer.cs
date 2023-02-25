@@ -53,6 +53,7 @@
             this.Formulario3Button.TabIndex = 2;
             this.Formulario3Button.Text = "Formulario 3";
             this.Formulario3Button.UseVisualStyleBackColor = false;
+            this.Formulario3Button.Click += new System.EventHandler(this.Formulario3Button_Click);
             // 
             // Formulario1Button
             // 
